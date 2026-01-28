@@ -1,11 +1,11 @@
 import { useState, useEffect } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link} from "react-router-dom";
 import './index.css';
 
 const History = () => {
   const [history, setHistory] = useState([]);
   const [selectedQuiz, setSelectedQuiz] = useState(null);
-  const navigate = useNavigate();
+
 
   useEffect(() => {
     const apiBase = "https://quizgenerater-backend-1.onrender.com";
