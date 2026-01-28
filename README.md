@@ -40,7 +40,9 @@ A modern web application that automatically generates interactive quizzes from a
     ```
 
 3.  **Frontend Setup**:
-    ```bash
+    ```bash<img width="1905" height="898" alt="Screenshot 2026-01-28 102633" src="https://github.com/user-attachments/assets/ce7e965a-42cd-4b4e-98ff-86bf47267853" />
+<img width="1919" height="892" alt="Screenshot 2026-01-28 102457" src="https://github.com/user-attachments/assets/3e7db6bf-acfa-4bd3-a9c0-6d5b09111e94" />
+
     cd frontend
     npm install
     npm start
@@ -49,3 +51,5 @@ A modern web application that automatically generates interactive quizzes from a
 ## ☁️ Deployment
 
 This project is configured for **Vercel**. Simply import the repo and set the environment variables!
+
+<img width="1920" height="1020" alt="Screenshot 2026-01-28 102443" src="https://github.com/user-attachments/assets/450909c3-20d0-4c6a-8737-d7506306746e" />
