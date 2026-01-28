@@ -1,3 +1,4 @@
+<img width="1905" height="898" alt="Screenshot 2026-01-28 102633" src="https://github.com/user-attachments/assets/7a6cf141-7d72-4998-8951-2f116e9fa443" />
 # AI-Powered Wikipedia Quiz Generator 🧠✨
 
 A modern web application that automatically generates interactive quizzes from any Wikipedia article URL using advanced AI.
