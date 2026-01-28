@@ -50,7 +50,7 @@ A modern web application that automatically generates interactive quizzes from a
 
 ## ☁️ Deployment
 
-This project is configured for **Vercel**. Simply import the repo and set the environment variables!
-
 <img width="1920" height="1020" alt="Screenshot 2026-01-28 102443" src="https://github.com/user-attachments/assets/450909c3-20d0-4c6a-8737-d7506306746e" />
 <img width="1905" height="898" alt="Screenshot 2026-01-28 102633" src="https://github.com/user-attachments/assets/7a6cf141-7d72-4998-8951-2f116e9fa443" />
+<img width="1891" height="873" alt="Screenshot 2026-01-28 103225" src="https://github.com/user-attachments/assets/236634c3-dbc1-4b59-8bb3-e1c84c3c6795" />
+
